@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../system/schema/extend.json",
+    "name": "Sdílení na sociální sítě",
+    "description": "Plugin dává možnost sdílet články na sociální sítě. Vyžaduje fontawesome.css",
+    "authors": [
+        {"name": "Lukáš Tesař", "url": "https://tlukas.eu"}
+    ],
+    "version": "1.0",
+    "environment": {
+        "system": "^8.0"
+    },
+    "events": [
+        {"event": "article.comments.before", "script": "event/share_buttons.php"}
+    ]
+}
