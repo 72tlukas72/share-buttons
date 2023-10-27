@@ -1,12 +1,12 @@
 # share-buttons
-Plugin přidává možnost sdílet články na sociální sítě (Facebook, Twitter, LinkedIn). Vyžaduje CSS od fontawesome.
+Plugin přidává možnost sdílet články na sociální sítě (Facebook, Twitter, LinkedIn).
  
 ## Requirements
 - SunLight CMS 8
 
 ## Installation
 
-- Copy the folder 'plugins' and its contents to the root directory
+- Copy the folder plugins and its contents to the root directory
 
 or
  

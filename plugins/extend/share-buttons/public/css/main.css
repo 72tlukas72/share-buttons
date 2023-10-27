@@ -1,0 +1,11 @@
+@import url(fontawesome-all.min.css);
+
+.icon {
+		text-decoration: none !important;
+		border-bottom: none;
+		position: relative;
+}
+
+.icon.brands:before {
+		font-family: 'Font Awesome 5 Brands';
+}
